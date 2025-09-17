@@ -9,6 +9,7 @@ You can add a diagram or a photo
 
  -->
 
+
 ## 2. INITIAL DATA AND PREPROCESSING
 <!-- 
 
@@ -42,7 +43,7 @@ Neural network
 …
 
  -->
-
+ 
 ## 6. FORECASTING RESULTS
 <!-- 
 
@@ -50,7 +51,7 @@ Metrics (MAE, RMSE, R2 on training and testing sets)
 
 Visualization of the predicted and real generation timeseries
 
- -->
+ --> 
 
 ## 7. CONCLUSION
 <!-- 
